@@ -7,3 +7,4 @@ xhofe/alist:latest
 dlpuzcl/python10-nodejs18
 eiqmobility/python310:latest
 python:3.9-alpine
+docker pull mysql
